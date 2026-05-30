@@ -2,9 +2,9 @@
 
 ## Bayes theorem
 
-$$P(A|B)  = \frac{p(B|A)}{P(A)  p(B)}$$
+P(A|B)=\frac{P(B|A)P(A)}{P(B)}
 
-law for a conditional property where P(A∣B) means the probability of A to occur depending of the occupance of probability B.
+law for a conditional property where P(A|B) is the probability of event A given that event B has occurred.
 i.e. what is the probability of A to be true if the probability of B to be true (A depending on B).
 
 ---
